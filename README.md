@@ -1,3 +1,10 @@
+# Introduction
+This app lists 4 best seller books on the most popular e-commerce website that has a river in the same name.
+
+# Lighthouse Report
+<img width="1785" alt="Screenshot 2023-07-22 at 4 47 32 AM" src="https://github.com/basilmon92/react-01-fundamentals/assets/3906737/9f4d09c5-57d6-428b-9b03-3b1bebffd6b7">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
