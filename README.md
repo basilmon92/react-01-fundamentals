@@ -1,8 +1,11 @@
 # Introduction
 This app lists 4 best seller books on the most popular e-commerce website that has a river in the same name.
 
+# Live Demo
+[Live Demo](https://preeminent-biscuit-f750f7.netlify.app/) of the web app
+
 # Lighthouse Report
-<img width="1785" alt="Screenshot 2023-07-22 at 4 47 32 AM" src="https://github.com/basilmon92/react-01-fundamentals/assets/3906737/9f4d09c5-57d6-428b-9b03-3b1bebffd6b7">
+<img width="897" alt="Screenshot 2023-07-22 at 5 20 19 AM" src="https://github.com/basilmon92/react-01-fundamentals/assets/3906737/2c9dd44e-0bb0-4bef-b458-17a8fed6028e">
 
 
 # Getting Started with Create React App
